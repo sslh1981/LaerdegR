@@ -1,7 +1,0 @@
-#exportPattern("^[[:alpha:]]+")
-exportPattern("^[^\\.]")
-import("datasets")
-import("utils")
-import("stats")
-import("graphics")
-import("grDevices")
